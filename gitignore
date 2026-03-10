@@ -1,0 +1,27 @@
+# Chat data — never commit personal conversations
+data/
+!data/sample/
+
+# Generated reports
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# NLTK data
+nltk_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
